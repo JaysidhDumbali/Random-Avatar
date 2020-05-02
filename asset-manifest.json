@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-Avatar/static/css/main.af14bb73.chunk.css",
+    "main.js": "/Random-Avatar/static/js/main.f03c955e.chunk.js",
+    "main.js.map": "/Random-Avatar/static/js/main.f03c955e.chunk.js.map",
+    "runtime-main.js": "/Random-Avatar/static/js/runtime-main.18817e38.js",
+    "runtime-main.js.map": "/Random-Avatar/static/js/runtime-main.18817e38.js.map",
+    "static/js/2.5c532459.chunk.js": "/Random-Avatar/static/js/2.5c532459.chunk.js",
+    "static/js/2.5c532459.chunk.js.map": "/Random-Avatar/static/js/2.5c532459.chunk.js.map",
+    "index.html": "/Random-Avatar/index.html",
+    "precache-manifest.5cf83d72859b82010d89ee22dc963e1a.js": "/Random-Avatar/precache-manifest.5cf83d72859b82010d89ee22dc963e1a.js",
+    "service-worker.js": "/Random-Avatar/service-worker.js",
+    "static/css/main.af14bb73.chunk.css.map": "/Random-Avatar/static/css/main.af14bb73.chunk.css.map",
+    "static/js/2.5c532459.chunk.js.LICENSE.txt": "/Random-Avatar/static/js/2.5c532459.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18817e38.js",
+    "static/js/2.5c532459.chunk.js",
+    "static/css/main.af14bb73.chunk.css",
+    "static/js/main.f03c955e.chunk.js"
+  ]
+}
