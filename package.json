@@ -2,7 +2,7 @@
   "name": "random-avatar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JaysidhDumbali.github.io/Random-Avatar",
+  "homepage": "https://jaysidhdumbali.github.io/Random-Avatar",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
